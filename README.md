@@ -13,3 +13,5 @@ I'm a 19-year-old web developer based somewhere on the internet. 🌐
 
 - Code Editor: **Visual Studio Code**
 - UI/UX Design with **Figma**
+
+[![](https://visitcount.itsvg.in/api?id=BigLZN&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
